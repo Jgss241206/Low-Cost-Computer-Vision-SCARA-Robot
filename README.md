@@ -91,5 +91,5 @@ Este proyecto es una implementación de un brazo robótico tipo SCARA de bajo co
 
 Jorge Gael Santiago Simón  
 Engineering Student at UNAM | Mechatronics Enthusiast  
-LinkedIn Profile  
+LinkedIn Profile  [https://www.linkedin.com/in/jorge-gael-santiago-sim%C3%B3n/]
 *Made with passion in Mexico City.*
